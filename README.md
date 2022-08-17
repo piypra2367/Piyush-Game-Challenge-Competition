@@ -1,8 +1,8 @@
 # Piyush-Game-Challenge-Competition
-Memory Game
+* Memory Game
 
 # Introduction
-It is a simple game of memory check where we have to choose colour according to the pattern show there.
+* It is a simple game of memory check where we have to choose colour according to the pattern show there.
 
 # Features
 * It's a one player game consits of 4 different sound for 4 different color of boxes in it.

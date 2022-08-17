@@ -20,3 +20,7 @@ see a new heading 'Game Over,Press Any Key to Restart' with a vibrating sound wh
 * HTML
 * CSS
 * JAVASCRIPT
+
+# Screenshots
+![Screenshot 2022-08-17 112822](https://user-images.githubusercontent.com/81475553/185045510-ef779470-fb51-4ad9-9f87-91583bd25f49.jpg)
+![Screenshot 2022-08-17 112848](https://user-images.githubusercontent.com/81475553/185045522-808f22c7-ba45-4301-b265-000cb5ff3ba2.jpg)
